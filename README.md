@@ -17,4 +17,4 @@ Following are the features implemented in the project:
 6. Buying coupons from global list
 7. Saving changes permanently
 
-For more details go to the [Project User Manual]()
+For more details go to the [Project User Manual](blob/master/CS401_proj_Sinha_Russi/Documentation/User%20Manual.pdf)
