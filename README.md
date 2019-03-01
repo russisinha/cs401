@@ -1,6 +1,6 @@
 # CS 401 - Introduction to advanced studies 1
 
-This repository contains the project for CS401 during the the term of Fall 2017
+This repository contains the project for CS401 during the term of Fall 2017
 
  
  # Project details
